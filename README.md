@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yaniv Hajaj
-- 💻 Computer Engineering student at Bar-Ilan University (third year)
+- 💻 Computer Engineering student at Bar-Ilan University 
 - 📱 I’m currently learning android games development
 - 📫 How to reach me yanivhjj@gmail.com
 
