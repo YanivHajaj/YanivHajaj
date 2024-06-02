@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Yaniv Hajaj
-- 💻 Computer Engineering student at Bar-Ilan University. I have a passion for learning new technologies and building projects that can make a difference. 
+- 💻 Computer Engineering student at Bar-Ilan University.
+- I have a passion for learning new technologies and building projects that can make a difference. 
 - 📫 How to reach me yanivhjj@gmail.com
 
 <!---
